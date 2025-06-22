@@ -83,7 +83,7 @@ if "Fisica" in materias:
     print(f"Asignatura extra:{asignatura_extra}")
 else:
     print("Asignatura extra no encontrada")
-    
+
 print("***********************************************************************************************")
 print("Instruccion 9")
 
@@ -95,7 +95,7 @@ if suma>8:
     print(f"Lista actualizada: {favoritas}")
 else:
     print("No se puede agregar Excelente a la lista")
-    
+
 print("***********************************************************************************************")
 print("Instruccion 10")
 
@@ -104,8 +104,8 @@ if "Excelente" in favoritas:
     print(f"Reporte: {reporte}")
 else:
     print("No se puede generar el reporte")
-    
-    print("***********************************************************************************************")
+
+print("***********************************************************************************************")
 print("Instruccion 11")
 
 if "reporte" in locals():
@@ -114,7 +114,7 @@ if "reporte" in locals():
 
 else:
     print("reporte no es un diccionario")
-    
+
 print("***********************************************************************************************")
 print("Instruccion 12")
 
